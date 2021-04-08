@@ -6,4 +6,13 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wilker123&show_icons=true&theme=radical)
 
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jos%C3%A9-wilker-7486381a5/)
+##Estudando
+
+- C#
+- NodeJs
+- Fluter
+- JavaScript
+
+
+
+
