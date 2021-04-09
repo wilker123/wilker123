@@ -6,7 +6,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wilker123&show_icons=true&theme=radical)
 
-#Estudando atualmente
+## Estudando atualmente
 
 - C#
 - NodeJs
