@@ -8,7 +8,10 @@
 
 ## Estudando atualmente
 
-- C# - NodeJs - Fluter - JavaScript
+- C# 
+- NodeJs 
+- Fluter 
+- JavaScript
 
 
 
