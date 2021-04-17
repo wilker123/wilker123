@@ -6,13 +6,6 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wilker123&show_icons=true&theme=radical)
 
-## Estudando
-
-- C# 
-- NodeJs
-- Fluter 
-- JavaScript
-
 
 
 
