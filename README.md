@@ -1,4 +1,4 @@
-### Olá me me chamo José Wilker 👋
+### Olá, me me chamo José Wilker 👋
 
 ## Objetivos:
 
